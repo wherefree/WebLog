@@ -1,0 +1,15 @@
+root     pts/0        157.122.68.188   Sat Dec 11 20:18   still logged in   
+root     pts/1        157.122.68.169   Sat Dec 11 18:06 - 18:29  (00:23)    
+root     pts/0        157.122.68.169   Sat Dec 11 17:14 - 18:29  (01:15)    
+reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:29 - 20:38  (10:09)    
+lighthou pts/0        119.29.96.147    Sat Dec 11 10:27 - 10:28  (00:00)    
+reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:27 - 10:29  (00:01)    
+reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:21 - 10:29  (00:07)    
+lighthou pts/0        111.230.154.177  Sun Dec  5 11:53 - 12:03  (00:10)    
+lighthou pts/0        119.29.96.147    Sun Dec  5 11:30 - 11:43  (00:13)    
+lighthou pts/0        111.230.154.177  Sun Dec  5 11:21 - 11:30  (00:08)    
+lighthou pts/0        119.28.22.215    Sun Dec  5 10:19 - 10:30  (00:10)    
+reboot   system boot  3.10.0-1160.31.1 Sun Dec  5 10:18 - 17:37  (07:19)    
+reboot   system boot  3.10.0-1160.31.1 Sun Dec  5 10:18 - 10:18  (00:00)    
+
+wtmp begins Sun Dec  5 10:18:12 2021
