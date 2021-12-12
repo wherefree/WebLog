@@ -1,7 +1,8 @@
-root     pts/0        157.122.68.188   Sat Dec 11 20:18   still logged in   
+root     pts/0        157.122.68.188   Sun Dec 12 11:38   still logged in   
+root     pts/0        157.122.68.188   Sat Dec 11 20:18 - 00:12  (03:54)    
 root     pts/1        157.122.68.169   Sat Dec 11 18:06 - 18:29  (00:23)    
 root     pts/0        157.122.68.169   Sat Dec 11 17:14 - 18:29  (01:15)    
-reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:29 - 21:33  (11:04)    
+reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:29 - 11:38 (1+01:09)   
 lighthou pts/0        119.29.96.147    Sat Dec 11 10:27 - 10:28  (00:00)    
 reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:27 - 10:29  (00:01)    
 reboot   system boot  3.10.0-1160.31.1 Sat Dec 11 10:21 - 10:29  (00:07)    
